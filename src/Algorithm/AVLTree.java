@@ -7,7 +7,7 @@ package Algorithm;
  * given code is often incomplete. You have to read and understand the given code 
  * carefully, before you can apply the code properly. You might need to implement 
  * additional procedures, such as error checking and handling, in order to apply the 
- * code properly.
+ * code properly
  */
 
 
