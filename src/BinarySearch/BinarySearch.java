@@ -25,7 +25,7 @@ public class BinarySearch<T extends Comparable<T>> {
         if (firstdigit >= 10)
             return null;
         int second_digit = cast_to_int - firstdigit * 10;
-        //如果相等进二次循环
+        //如果相等进二次循环.
         if (firstdigit == (minY + maxY) / 2) {
             if (second_digit < (maxX + minX) / 2) {
                 maxX = (maxX + minX) / 2;// 往中间靠的方法
