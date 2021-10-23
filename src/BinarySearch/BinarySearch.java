@@ -20,7 +20,7 @@ public class BinarySearch<T extends Comparable<T>> {
      */
     public Element<T> search(Element<T>[][] A, int minX, int maxX, int minY, int maxY, T target) {
 
-        int cast_to_int = (Integer) target;
+        int cast_to_int = (Integer) target;//将目标数字转化为整形
         int firstdigit = cast_to_int / 10;
         if (firstdigit >= 10)
             return null;
