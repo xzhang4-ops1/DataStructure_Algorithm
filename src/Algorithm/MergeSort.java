@@ -9,7 +9,7 @@ import java.util.List;
 import static org.junit.Assert.assertTrue;
 
 public class MergeSort {
-    private static List<Integer> mergsort(List<Integer> unsorted) {
+    public static List<Integer> mergsort(List<Integer> unsorted) {
         if (unsorted == null || unsorted.size() <= 1)
             return unsorted;
         int size = unsorted.size();

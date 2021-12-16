@@ -1,5 +1,5 @@
 package Algorithm;
- * The given code is provided to assist you to complete the required tasks. But the
+ /* The given code is provided to assist you to complete the required tasks. But the
  * given code is often incomplete. You have to read and understand the given code
  * carefully, before you can apply the code properly.
  */
