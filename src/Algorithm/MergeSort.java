@@ -5,7 +5,9 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+/*
+test in mac
+ */
 import static org.junit.Assert.assertTrue;
 
 public class MergeSort {
